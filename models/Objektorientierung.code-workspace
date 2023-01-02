@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Objektorientierung"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "El_Pollo_Loco"
+	}
+}
